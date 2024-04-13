@@ -1,0 +1,75 @@
+#maDiv {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    
+    color: rebeccapurple;
+    border-radius: 50%;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#maDiv2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    
+    color: rebeccapurple;
+    border-radius: 50%;
+    margin-right: 15px;
+    
+}
+
+#maDiv3 {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+     
+    color: rebeccapurple;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+section {
+    display: flex;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#input{
+    height: 100px;
+    text-align: center;
+    
+}
+input{
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+
